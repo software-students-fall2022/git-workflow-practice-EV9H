@@ -13,3 +13,7 @@
 ### What I find interesting
 
 As a computer science student, I learned the notion that when working in the real world, a practice of prioritizing is necessary as the workload is not clearly defined, not very like what we encounter in our academic assignments.
+
+### Comment
+
+Indeed, this is very helpful to understand that the industrial engineering process is very different from what we encounter in school. Therefore, our evaluation for different engineering protocals might also alternate when facing real-life tasks. -Winston Zhang 
